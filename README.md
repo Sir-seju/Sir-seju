@@ -1,6 +1,10 @@
 <h1 align="center">Hello 👋, I'm Uwasan Samuel Maku</h1>
 <h3 align="center">A passionate AWS Solutions Architect / Devops Engineer from Nigeria</h3>
 
+# What do i do on a day to day?
+
+- ⚡ Fun fact **When I'm not architecting cloud infrastructure or debugging code on my desk, you can find me with a nice sandwich full of mayo binge watching classic movies.**
+
 - 🔭 I’m currently working on **Kubernetes projects**
 
 - 🌱 I’m currently learning **Ansible**
@@ -8,8 +12,6 @@
 - 📝 I regularly write articles on [graystum.com](graystum.com)
 
 - 📫 How to reach me **graystum.dev@gmail.com**
-
-- ⚡ Fun fact **When I'm not architecting cloud infrastructure or debugging code on my desk, you can find me with a nice sandwich full of mayo binge watching classic movies.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
