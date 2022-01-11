@@ -5,7 +5,7 @@
 
 - I am a motivated young man with a solid work ethic currently building, developing, and growing in the fields of Cloud, Networking, and DevOps. 
 
-- ⚡ Fun fact about me: When I'm not developing on the cloud or debugging code on my desk, you can find me fandoming the UFC, binge-watching classic movies.
+- ⚡ Fun fact about me: When I'm not developing on the cloud or debugging code on my desk, you can find me playing strategy games, UFC, binge-watching classic movies.
 
 - 🔭 I’m currently working on Cloud Projects and Certifications
 
