@@ -1,5 +1,5 @@
 <h2 align="center">Hi, I'm Uwasan Maku</h2>
-<h3 align="center">Senior DevSecOps Engineer | Toronto, Canada</h3>
+<h3 align="center">Platform DevSecOps Engineer | Toronto, Canada</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/uwasan-maku"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -10,7 +10,7 @@
 
 ### About Me
 
-Senior DevSecOps Engineer with 6+ years of experience designing secure, automated, and scalable CI/CD pipelines in cloud environments. I specialize in enterprise infrastructure modernization, cloud migrations, and building GitOps-driven automation solutions.
+Senior DevSecOps Engineer with 8+ years of experience designing secure, automated, and scalable CI/CD pipelines in cloud environments. I specialize in enterprise infrastructure modernization, cloud migrations, and building GitOps-driven automation solutions.
 
 Currently working as a **Senior DevSecOps Consultant** delivering infrastructure modernization and cloud migration solutions for enterprise clients.
 
